@@ -164,7 +164,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cado.h" />
-    <ClInclude Include="Httpcommand.h" />
     <ClInclude Include="OCR.h" />
     <ClInclude Include="Singal.h" />
     <ClInclude Include="Viber.h" />

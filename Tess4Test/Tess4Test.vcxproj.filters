@@ -26,9 +26,6 @@
     <ClInclude Include="cado.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Httpcommand.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="VxDType.h">
       <Filter>头文件</Filter>
     </ClInclude>
