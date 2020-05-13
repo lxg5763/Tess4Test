@@ -47,4 +47,5 @@ std::string SingalTesting(HWND winhd, string data_phone)
 		printf("%sÒÑ×¢²á\r\n", data_phone.c_str());
 		register_result = "ÊÇ";
 	}
+	return register_result;
 }

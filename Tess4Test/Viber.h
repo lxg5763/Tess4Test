@@ -42,4 +42,5 @@ std::string ViberTesting(HWND winhd, string data_phone)
 		printf("%sÎ´×¢²á\r\n", data_phone.c_str());
 		register_result = "·ñ";
 	}
+	return register_result;
 }

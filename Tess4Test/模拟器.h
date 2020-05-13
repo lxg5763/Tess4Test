@@ -14,7 +14,7 @@ void MouseLeftClick(HWND mh, int x, int y)
 //¼üÅÌÊäÈë
 void KeyboardInput(string s)
 {
-	for (int i = 0; i < s.length(); i++)
+	for (unsigned int  i = 0; i < s.length(); i++)
 	{
 		keybd_event(s[i], 0, 0, 0);    // Ñ­»·°´¼ü
 		Sleep(10);
